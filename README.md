@@ -1,6 +1,6 @@
 # Simple Gen AI App Using LangChain
 
-## A Retrieval-Augmented Generation Application RAG
+## A Retrieval-Augmented Generation Application RAG using ChatOpenAI and Ollama
 ## Overview
 This project demonstrates a **Generative AI Application** using **LangChain**. The focus is on **data ingestion** and **data transformation**, particularly breaking data into manageable chunks. The implementation is designed to help AI-based applications preprocess textual data efficiently, making it more structured for downstream tasks such as retrieval-augmented generation (RAG) and chatbot development.
 
